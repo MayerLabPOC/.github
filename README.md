@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="logo.png" alt="Mayer Lab Logo" width="180"/>
+</p>
+
 <h1 align="center">Mayer Lab</h1>
 
 <p align="center">
-  Organic Chemistry · Reaction Mechanisms · Chemical Reactivity  
+  Physical Organic Chemistry of Catalysis · Reaction Mechanisms · Chemical Reactivity  
 </p>
 
 <p align="center">
@@ -12,7 +16,7 @@
 
 ## Overview
 
-The Mayer Lab investigates fundamental aspects of chemical reactivity, with a focus on reaction mechanisms, kinetics, and molecular design. Our work integrates experimental and computational approaches to better understand and control chemical systems.
+The Mayer Lab investigates fundamental aspects of chemical reactivity in water, with a focus on reaction mechanisms, kinetics, and molecular design. Our work integrates experimental and computational approaches to better understand and control chemical systems.
 
 ---
 
