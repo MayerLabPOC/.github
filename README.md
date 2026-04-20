@@ -31,7 +31,7 @@ The Mayer Lab investigates fundamental aspects of chemical reactivity in water, 
 
 ## Scope of this Organization
 
-This GitHub organization hosts code and resources developed within the lab, including:
+On GitHub our lab hosts code and resources developed within the lab, including:
 
 - Data analysis pipelines for chemical experiments  
 - Tools for reaction kinetics and mechanistic studies  
