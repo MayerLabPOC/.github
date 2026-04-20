@@ -1,17 +1,31 @@
-# Mayer Lab
+<h1 align="center">Mayer Lab</h1>
 
-Official GitHub repository of the Mayer Lab  
-🌐 https://rjmayerlab.com
+<p align="center">
+  Organic Chemistry · Reaction Mechanisms · Chemical Reactivity  
+</p>
+
+<p align="center">
+  <a href="https://rjmayerlab.com">🌐 Website</a>
+</p>
 
 ---
 
 ## Overview
 
-The Mayer Lab investigates fundamental aspects of chemical reactivity in water, with a focus on reaction mechanisms, kinetics, and molecular design. Our work integrates experimental and computational approaches to better understand and control chemical systems.
+The Mayer Lab investigates fundamental aspects of chemical reactivity, with a focus on reaction mechanisms, kinetics, and molecular design. Our work integrates experimental and computational approaches to better understand and control chemical systems.
 
 ---
 
-## Scope of this Repository
+## Research Areas
+
+- **Physical Organic Chemistry**  
+- **Reaction Mechanisms and Kinetics**  
+- **Molecular Reactivity and Design**  
+- **Data-Driven Chemistry**  
+
+---
+
+## Scope of this Organization
 
 This GitHub organization hosts code and resources developed within the lab, including:
 
@@ -21,30 +35,14 @@ This GitHub organization hosts code and resources developed within the lab, incl
 - Computational chemistry and cheminformatics scripts  
 - Reproducible code accompanying publications  
 
-Repositories are maintained by lab members and collaborators. Documentation and usage instructions are provided within individual projects.
-
----
-
-## Research Areas
-
-- Physical Organic Chemistry  
-- Reaction Mechanisms and Kinetics  
-- Molecular Reactivity and Design  
-- Data-Driven Chemistry  
+Each repository is maintained by lab members and collaborators, with documentation provided at the project level.
 
 ---
 
 ## Reproducibility
 
-Where possible, we aim to provide code and data supporting published results.  
-Please refer to individual repositories for details on dependencies, datasets, and execution.
-
----
-
-## Collaboration
-
-We welcome collaborations in areas aligned with our research.  
-For inquiries, please contact us via the lab website.
+Where possible, we provide code and data supporting published results.  
+Please refer to individual repositories for details on dependencies and datasets.
 
 ---
 
@@ -55,7 +53,17 @@ https://rjmayerlab.com
 
 ---
 
+## Collaboration
+
+We welcome collaborations in areas aligned with our research.  
+For inquiries, please contact us via the lab website.
+
+---
+
 ## Contact
 
-Mayer Lab  
-EPFL, Lausanne  
+**Mayer Lab**  
+Technical University of Munich (TUM)  
+Munich, Germany  
+
+---
